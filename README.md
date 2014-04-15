@@ -7,4 +7,6 @@ X开发者入门手册
 
 版权见：00_版权.md
 
+原先是托管在Git@OSC上的，现在主要放在Github上，Git@OSC那边只是同步，不接受Pull Request。
+
 by 凉拌茶叶
