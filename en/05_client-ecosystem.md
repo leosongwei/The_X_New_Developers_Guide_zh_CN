@@ -58,11 +58,11 @@ Documentation for almost all of these libraries is included with the libraries t
 
 ###XCB family of protocol and utility libraries
 
-The newer generation of X protocol encoding &amp; decoding libraries are built on top of the XCB core, with the encoding &amp; decoding functions auto-generated from XML descriptions of the protocol. libxcb provides both the connection management functions, and the handling of the core X protocol, with additional libraries provided for each X extension:
+The newer generation of X protocol encoding &amp; decoding libraries are built on top of the XCB core, with the encoding &amp; decoding functions auto-generated from XML descriptions of the protocol. *libxcb provides both the connection management functions, and the handling of the core X protocol, with additional libraries provided for each X extension*:
 
 ```
-libxcb-composite    libxcb-res        
-libxcb-damage       libxcb-screensaver 
+libxcb-composite    libxcb-res
+libxcb-damage       libxcb-screensaver
 libxcb-dpms         libxcb-shape            libxcb-xinerama
 libxcb-dri2         libxcb-shm              libxcb-xinput
 libxcb-glx          libxcb-sync         libxcb-xprint
