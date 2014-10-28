@@ -13,7 +13,7 @@
    height="279.70447"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="stairstep.svg">
   <defs
      id="defs4" />
@@ -24,17 +24,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="361.4849"
-     inkscape:cy="7.5496"
+     inkscape:zoom="1.4"
+     inkscape:cx="164.6338"
+     inkscape:cy="149.82082"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3174"
      showgrid="false"
-     inkscape:window-width="734"
-     inkscape:window-height="516"
-     inkscape:window-x="231"
-     inkscape:window-y="102"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="1366"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
      fit-margin-top="0.1"
      fit-margin-left="0.1"
      fit-margin-bottom="0.1"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -100,18 +100,6 @@
       </g>
       <text
          sodipodi:linespacing="125%"
-         id="text3068"
-         y="304.05615"
-         x="299.68433"
-         style="font-size:29.22649956px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="stroke:none"
-           y="304.05615"
-           x="299.68433"
-           id="tspan3070"
-           sodipodi:role="line">Application</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
          id="text3072"
          y="375.03479"
          x="141.0262"
@@ -121,43 +109,55 @@
            y="375.03479"
            x="141.0262"
            id="tspan3074"
-           sodipodi:role="line">Toolkit</tspan></text>
+           sodipodi:role="line">工具库</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3076"
-         y="427.22495"
-         x="136.85097"
+         y="426.51065"
+         x="189.70811"
          style="font-size:29.22649956px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            style="stroke:none"
-           y="427.22495"
-           x="136.85097"
+           y="426.51065"
+           x="189.70811"
            id="tspan3078"
-           sodipodi:role="line">Rendering libs</tspan></text>
+           sodipodi:role="line">渲染库</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3080"
-         y="477.32751"
-         x="149.37662"
+         y="474.47037"
+         x="207.94804"
          style="font-size:29.22649956px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            style="stroke:none"
-           y="477.32751"
-           x="149.37662"
+           y="474.47037"
+           x="207.94804"
            id="tspan3082"
-           sodipodi:role="line">Text Rendering libs</tspan></text>
+           sodipodi:role="line">文本渲染库</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3084"
-         y="530.28723"
-         x="242.32048"
+         y="527.43011"
+         x="271.6062"
          style="font-size:29.22649956px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            style="stroke:none"
-           y="530.28723"
-           x="242.32048"
+           y="527.43011"
+           x="271.6062"
            id="tspan3086"
-           sodipodi:role="line">X Protocol libs</tspan></text>
+           sodipodi:role="line">X协议库</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         x="224.28571"
+         y="55.418755"
+         id="text2999"
+         sodipodi:linespacing="125%"
+         transform="translate(97.204715,265.9216)"><tspan
+           sodipodi:role="line"
+           id="tspan3001"
+           x="224.28571"
+           y="55.418755">应用程序</tspan></text>
     </g>
   </g>
 </svg>
